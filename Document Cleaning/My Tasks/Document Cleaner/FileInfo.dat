@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="Document Cleaner - Main.atmx">
+    <Properties>
+      <Property Name="LastRunTime">06/17/2019 16:45:57</Property>
+      <Property Name="RunDuration">00:00:53</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+</Entities>
